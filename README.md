@@ -1,6 +1,6 @@
 # Study-Case-git
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20GilbertNovando]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">[GilbertNovando]</h1>
