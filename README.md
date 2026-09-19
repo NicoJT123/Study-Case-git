@@ -30,7 +30,8 @@
 - [ ] Toggle Dark Mode
 - [ ] Like Counter interaktif
 - [ ] Responsive layout
-- [ ] _(tambahkan fitur lain sesuai pengembangan kelompok)_
+- [ ] Accessable non internet
+- [ ] Simple eduaction tools
 
 ---
 
