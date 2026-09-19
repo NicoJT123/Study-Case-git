@@ -45,9 +45,10 @@
 
 ---
 
+### GitHub Stats (opsional)
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GilbertNovando&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
