@@ -1,4 +1,3 @@
-# [Barber Shop]
 
 
 # [Barber Shop]
