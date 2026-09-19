@@ -1,5 +1,8 @@
 # [Barber Shop]
 
+
+# [Barber Shop]
+
 ( "DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like counter, dibuat sebagai study case Workshop Git & GitHub.Dengan ini, kami akan menjadi programmer terkece sedunia.")
 
 ---
