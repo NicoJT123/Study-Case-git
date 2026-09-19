@@ -1,54 +1,45 @@
-# Study-Case-git
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Gilbert%20Novando]&fontSize=40&fontColor=ffffff" alt="banner" />
-</p>
+# [Barber Shop]
 
-<h1 align="center">[GilbertNovando]</h1>
-<p align="center">["Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+( "DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like counter, dibuat sebagai study case Workshop Git & GitHub.Dengan ini, kami akan menjadi programmer terkece sedunia.")
 
 ---
 
-### Details / About Me
+## Visualisasi
 
-- **Pekerjaan Saat ini**: [Mahasiswa Binus University]
-- **Sedang mendalami**: [ Git & GitHub Workflow]
-- **Target**: [Menjadi programmer kece]
-- **Fun fact**: [Gw suka bermain programming dari sd]
+<!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
+
+<img width="959" height="475" alt="Screenshot Github" src="https://github.com/user-attachments/assets/768b79b4-6c78-42d3-9757-964b5d3e8643" />
+
+
+
 
 ---
 
-### Connect with Me
+## Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/Gilbert Novando" target="_Programmer profesional">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/gibert_novando" target="_sosial media">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:kwokgibert@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Git & GitHub
 
 ---
 
-### Tech Stack & Tools
+## Fitur Utama
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- [ ] Toggle Dark Mode
+- [ ] Like Counter interaktif
+- [ ] Responsive layout
+- [ ] Accessable non internet
+- [ ] Simple eduaction tools
 
 ---
 
-### GitHub Stats (opsional)
 
+## Contribution
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilbertNovando&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+| Barber Shop Muda | Role | Kontribusi |
+|---|---|---|
+| Nico Justin Tanryo | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Gilbert Novando | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Fernando Rossi | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
