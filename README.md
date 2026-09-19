@@ -9,7 +9,7 @@
 
 <!-- Tempel screenshot tampilan halaman di sini, atau link demo (misalnya GitHub Pages).-->
 
-![Screenshot](link-<img width="959" height="475" alt="Screenshot Github" src="https://github.com/user-attachments/assets/768b79b4-6c78-42d3-9757-964b5d3e8643" />
+-<img width="959" height="475" alt="Screenshot Github" src="https://github.com/user-attachments/assets/768b79b4-6c78-42d3-9757-964b5d3e8643" />
 )
 
 
@@ -39,7 +39,7 @@
 
 | Barber Shop Muda | Role | Kontribusi |
 |---|---|---|
-| [Nico Justin Tanryo] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Gilbert Novando] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Fernando Rossi] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| Nico Justin Tanryo | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Gilbert Novando | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Fernando Rossi | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
